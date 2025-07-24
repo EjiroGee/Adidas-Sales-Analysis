@@ -73,7 +73,7 @@ Preliminary findings included:
 
 ##  Dashboard Preview
 
-![Dashboard Screenshot](link-to-screenshot.png)
+![Dashboard Screenshot](https://github.com/EjiroGee/Adidas-Sales-Analysis/blob/main/adidas%20jpeg.jpg)
 
 **Features:**
 
